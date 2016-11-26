@@ -24,3 +24,8 @@ hr {
 .title-logo {
     margin-top: 20px;
 }
+
+.img-project {
+    border: 1px solid;
+    border-radius: 1em;
+}
