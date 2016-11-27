@@ -32,4 +32,5 @@ footer {
 .img-project {
     border: 1px solid;
     border-radius: 1em;
+    width: 100%;
 }
